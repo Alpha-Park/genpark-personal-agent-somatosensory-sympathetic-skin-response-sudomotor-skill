@@ -1,0 +1,17 @@
+{
+  "name": "genpark-personal-agent-somatosensory-sympathetic-skin-response-sudomotor-skill",
+  "version": "1.0.0",
+  "description": "Calculates palmar and plantar sympathetic skin response (SSR) latency, peak amplitude, and sudomotor autonomic reflex arc integrity.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "somatosensory",
+    "autonomic-nervous-system",
+    "sudomotor",
+    "electrophysiology"
+  ],
+  "dependencies": []
+}
